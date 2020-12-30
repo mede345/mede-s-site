@@ -1,0 +1,40 @@
+#titoloSito{
+    
+
+    margin-left: 1000px;
+    color: darkblue;
+    font-family: cursive;
+}
+
+#descrizioneTitolo{
+    
+    font-size: 25px;
+    margin-left: 700px;
+}
+
+#sezione1{
+    
+    margin-top: 110px;
+    margin-left: 900px;
+    
+}
+
+#sezione2{
+    
+    margin-top: -54px;
+    margin-left: 1400px;
+    
+}
+
+#titoloSitoSezione{
+    
+   color:green;
+    font-family:cursive; 
+        text-decoration:underline
+    
+}
+
+a:hover {
+    color: cadetblue
+    
+}
